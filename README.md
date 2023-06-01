@@ -1,4 +1,7 @@
 # to-do-list
-  #MMSIT-SWD
-  
+
+  # MMSIT-SWD
   mini-project-1
+
+  # Library
+  bootstrap, scss
